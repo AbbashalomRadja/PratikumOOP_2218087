@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"BAB1.ClassObject"},{"l":"pratikumoop_2218087"},{"l":"ProjectPratikum.Bab1"},{"l":"TugasBab1"}];updateSearchResults();
